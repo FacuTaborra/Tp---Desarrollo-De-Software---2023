@@ -7,4 +7,4 @@
  ### 3 - Un uber pero con algo en especial
  ### 4 - Systema tipo rappi pero de servicios (plomero, gasista, cerrajero, etc), con experiencias y perfiles, capaz es menos complicada que la de subastas
  ### 5 - Red Social
- ### 6 - Un tinder de reclñutamiento para hacer cosas, por ejemplo se recluta gente para una banda.
+ ### 6 - Un tinder de reclutamiento para hacer cosas, por ejemplo se recluta gente para una banda.
